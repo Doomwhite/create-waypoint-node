@@ -1,0 +1,11 @@
+{
+	"id": "create-waypoint-node",
+	"name": "Create waypoint node",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Create waypoint node",
+	"author": "DooMWhite",
+	"authorUrl": "https://github.com/Doomwhite",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
